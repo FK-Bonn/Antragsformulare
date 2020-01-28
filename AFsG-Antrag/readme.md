@@ -14,7 +14,7 @@ Dem AFsG-Antrag müssen angehängt werden:
 - Protokoll der Sitzung, auf der der Fachschaftsrat, welcher im Antragszeitraum im Amt war, entlastet wurde. Dies darf nicht eine Sitzung des Fachschaftsrates sein, die Entlastung muss durch die Fachschaftsvertretung oder eine Fachschaftsvollversammlung erfolgen.
 
 #### Protokoll der konstituierenden Sitzung der Fachschaftsvertretung / des Fachschaftsrates
--relevant ist das Protokoll des direkt durch die Fachschaft gewählten Organs, es enthält mindestens:
+- relevant ist das Protokoll des direkt durch die Fachschaft gewählten Organs, es enthält mindestens:
   - Name der Fachschaft
   - Datum der Fachschaftswahl
   - Datum der konstituierenden Sitzung der Fachschaftsvertretung
