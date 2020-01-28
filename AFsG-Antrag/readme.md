@@ -1,4 +1,5 @@
 # AFsG-Antrag
+Allgemeine Fachschaftengelder (AFsG) dienen der Deckung der laufenden Kosten einer Fachschaft, die durch den allgemeinen Geschäftsbetrieb der Fachschaft entstehen.
 
 ## Benötigte Anhänge
 Dem AFsG-Antrag müssen angehängt werden:
