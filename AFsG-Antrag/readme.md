@@ -1,8 +1,9 @@
 # AFsG-Antrag
-Allgemeine Fachschaftengelder (AFsG) dienen der Deckung der laufenden Kosten einer Fachschaft, die durch den allgemeinen Geschäftsbetrieb der Fachschaft entstehen.
+Allgemeine Fachschaftengelder (AFsG) dienen der Deckung der laufenden Kosten einer Fachschaft, die durch den allgemeinen Geschäftsbetrieb der Fachschaft entstehen. Weitere Informationen finden sich auf der Webseite des AStA unter [Allgemeine achschaftengelder](http://www.asta-bonn.de/Allgemeine_Fachschaftengelder)
 
 ## Benötigte Anhänge
-Dem AFsG-Antrag müssen angehängt werden:
+Für den Antrag ist das obenstehende Formular vollständig und wahrheitsgemäß auszufüllen. Dies kann am Computer mit üblichen PDF-Programmen erfolgen. Danach muss die Datei lediglich abgespeichert werden und kann per Email an das Fachschatenreferat gesendet werden.
+Dem AFsG-Antrag müssen außerdem die folgenden Dokumente angehängt werden:
 
 #### Kassenabrechnung des beantragten Semesters
 - Kassenanfangs- und endstand (inkl. Handkassen und allen anderen Konten)
