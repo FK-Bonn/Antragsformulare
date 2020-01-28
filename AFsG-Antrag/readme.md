@@ -15,13 +15,13 @@ Dem AFsG-Antrag müssen angehängt werden:
 
 #### Protokoll der konstituierenden Sitzung der Fachschaftsvertretung / des Fachschaftsrates
 -relevant ist das Protokoll des direkt durch die Fachschaft gewählten Organs, es enthält mindestens:
--- Name der Fachschaft
-- Datum der Fachschaftswahl
-- Datum der konstituierenden Sitzung der Fachschaftsvertretung
-- die vollständigen Namen der alten FSV/FSR- Mitglieder, als Liste beigefügt
-- die vollständigen Namen der neuen FSV/FSR- Mitglieder
-- die Wahlen  des FSR-Vorsitzes, stellvertretenden FSR-Vorsitzes und Finanzreferenten
-- Unterschriften des Protokollführers, Wahlleiters und des neuen Vorsitzenden des konstituierten Gremiums (nicht notwendigerweise FSR-Vorsitz)
+  - Name der Fachschaft
+  - Datum der Fachschaftswahl
+  - Datum der konstituierenden Sitzung der Fachschaftsvertretung
+  - die vollständigen Namen der alten FSV/FSR- Mitglieder, als Liste beigefügt
+  - die vollständigen Namen der neuen FSV/FSR- Mitglieder
+  - die Wahlen  des FSR-Vorsitzes, stellvertretenden FSR-Vorsitzes und Finanzreferenten
+  - Unterschriften des Protokollführers, Wahlleiters und des neuen Vorsitzenden des konstituierten Gremiums (nicht notwendigerweise FSR-Vorsitz)
 
 #### Haushaltsplan
 - Haushaltsplan des im Antragszeitraum laufenden Haushaltsjahres
